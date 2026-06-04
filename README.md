@@ -1,6 +1,6 @@
 # Kade Gregory
 
-I am an upcoming Computer Science graduate from Loughborough University with a strong interest in software engineering, cloud infrastructure, backend systems, DevOps, cybersecurity, and full-stack application development.
+I am a Computer Science graduate from Loughborough University with a strong interest in software engineering, cloud infrastructure, backend systems, DevOps, cybersecurity, and full-stack application development.
 
 My public repositories mainly contain university coursework, final-year project work, and supporting software projects. They demonstrate experience across backend APIs, frontend web applications, embedded systems, object-oriented programming, mobile application support services, and team-based software engineering.
 
@@ -62,6 +62,18 @@ These projects demonstrate experience in:
 * Git and GitHub
 * GitHub Projects
 
+## Security and Identity
+
+I use GPG for cryptographic identity verification and commit/signature authenticity where appropriate. My OpenPGP key is published through keys.openpgp.org and can be referenced by fingerprint:
+
+`D1C5 B3C1 84B7 4863 6425 E680 935F 87BB B08E 4BEE`
+
+Public key:
+
+`https://keys.openpgp.org/vks/v1/by-fingerprint/D1C5B3C184B748636425E680935F87BBB08E4BEE`
+
+I also use YubiKeys as part of my personal security setup for hardware-backed authentication and key protection. This reflects my broader interest in secure development practices, strong authentication, and practical cybersecurity.
+
 ## Academic Work
 
 Most repositories in this profile are coursework or project submissions completed as part of my Computer Science degree at Loughborough University. They are structured to show the submitted work clearly, including project summaries, main features, technologies used, and relevant implementation notes.
@@ -72,3 +84,4 @@ Several repositories are archived because they represent completed coursework su
 
 * GitHub: `https://github.com/kadegrg`
 * LinkedIn: `https://www.linkedin.com/in/kadegrg`
+* OpenPGP key: `https://keys.openpgp.org/vks/v1/by-fingerprint/D1C5B3C184B748636425E680935F87BBB08E4BEE`
