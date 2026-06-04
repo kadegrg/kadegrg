@@ -1,12 +1,12 @@
 # Kade Gregory
 
-I am a Computer Science graduate from Loughborough University with a strong interest in software engineering, cloud infrastructure, backend systems, DevOps, cybersecurity, and full-stack application development.
+I'm an upcoming Computer Science graduate from Loughborough University with a strong interest in software engineering, cloud infrastructure, backend systems, DevOps, cybersecurity, and full-stack application development.
 
 My public repositories mainly contain university coursework, final-year project work, and supporting software projects. They demonstrate experience across backend APIs, frontend web applications, embedded systems, object-oriented programming, mobile application support services, and team-based software engineering.
 
 ## Project Summary
 
-My GitHub portfolio includes a mixture of individual coursework submissions, group project repositories, and a final-year project. These projects cover practical software development using technologies including TypeScript, JavaScript, Node.js, Express, React, Java, PHP, C++, SQL databases, Docker, and REST APIs.
+This collection of repositories include a mixture of individual coursework submissions, group project repositories, and a final-year project. These projects cover practical software development using technologies including TypeScript, JavaScript, Node.js, Express, React, Java, PHP, C++, SQL databases, Docker, and REST APIs.
 
 A major focus of my recent work is the design and implementation of full-stack and backend systems with clear separation of concerns, authentication, database-backed functionality, and structured project documentation. My final-year project, HELIOS, is a full-stack inventory and access management platform built with a TypeScript/Express backend and React frontend.
 
@@ -23,8 +23,6 @@ A major focus of my recent work is the design and implementation of full-stack a
 | `23COA256-Object_Oriented_Programming`              | Java coursework project modelling a computer accessory store with object-oriented design, product/user models, role-based user types, and file-based persistence.                                    |
 
 ## Skills Demonstrated
-
-These projects demonstrate experience in:
 
 * Full-stack web application development
 * Backend API design and implementation
