@@ -1,6 +1,6 @@
 # Kade Gregory
 
-I'm an upcoming Computer Science graduate from Loughborough University with a strong interest in software engineering, cloud infrastructure, backend systems, DevOps, cybersecurity, and full-stack application development.
+I'm a First Class Computer Science graduate from Loughborough University with a strong interest in software engineering, cloud infrastructure, backend systems, DevOps, cybersecurity, and full-stack application development.
 
 My public repositories mainly contain university coursework, final-year project work, and supporting software projects. They demonstrate experience across backend APIs, frontend web applications, embedded systems, object-oriented programming, mobile application support services, and team-based software engineering.
 
